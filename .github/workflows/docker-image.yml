@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: youngseo_3/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: lacuna25/nodejs-github-action:${{ env.CURRENT_TIME }}
